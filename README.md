@@ -21,7 +21,7 @@ This project is designed to familiarize users with password cracking techniques 
 
 2. **Prepare the Files:**
 
-   Place the `worldlist.txt` and `passwords.txt` files in the same directory as the John the Ripper executable or specify the path to these files in the commands.
+   Place the `worldlist.txt` and `password.txt` files in the same directory as the John the Ripper executable or specify the path to these files in the commands.
 
 3. **Run John the Ripper:**
 
