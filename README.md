@@ -11,7 +11,7 @@ This project is designed to familiarize users with password cracking techniques 
 ## Files
 
 - **`worldlist.txt:`** A wordlist file containing a list of potential passwords used in the cracking process.
-- **`passwords.txt:`** A file containing bcrypt hashed passwords that need to be cracked.
+- **`password.txt:`** A file containing bcrypt hashed passwords that need to be cracked.
 
 ## Getting Started
 
